@@ -31,7 +31,7 @@
 
 .claim-arrow {
   height: 11px;
-  margin: 7px 0px 0px 8px;
+  margin: 0px;
 }
 
 .claim-anchor {
@@ -49,7 +49,7 @@
   }
 
   .claim-anchor {
-    margin-left: 0px;
+    margin-left: 5px;
   }
 }
 
@@ -72,7 +72,7 @@
   }
   .claim-arrow {
     height: 6px;
-    margin: 2px 0px 0px 3px;
+    margin: 0px;
   }
 
   .hero-claim-label {
