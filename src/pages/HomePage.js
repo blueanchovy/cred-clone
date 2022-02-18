@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../components/common/Header";
+import CredExperience from "../components/CredExperience";
 import FeelSpecial from "../components/FeelSpecial";
 import HeroSection from "../components/HeroSection";
 import ProductShowCase from "../components/ProductShowcase";
@@ -11,6 +12,7 @@ const Homepage = () => {
       <HeroSection />
       <ProductShowCase />
       <FeelSpecial />
+      <CredExperience />
     </>
   );
 };
