@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../components/common/Header";
+import FeelSpecial from "../components/FeelSpecial";
 import HeroSection from "../components/HeroSection";
 import ProductShowCase from "../components/ProductShowcase";
 
@@ -9,6 +10,7 @@ const Homepage = () => {
       <Header />
       <HeroSection />
       <ProductShowCase />
+      <FeelSpecial />
     </>
   );
 };
