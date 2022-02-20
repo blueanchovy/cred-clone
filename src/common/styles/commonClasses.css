@@ -50,6 +50,12 @@
   margin-bottom: 40px;
 }
 
+.hamburger-fixed {
+  position: fixed;
+  top: 40px;
+  right: 20px;
+}
+
 @media all and (max-width: 1289px) {
   .max-width {
     max-width: 80%;

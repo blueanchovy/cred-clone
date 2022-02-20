@@ -25,13 +25,13 @@ const Header = () => {
         <div className="only-mobile mobile-menu-button-wrapper">
           <button
             onClick={toggleMobMenu}
-            class={`hamburger hamburger--spin ${
+            className={`hamburger hamburger--spin ${
               showMobMenu ? "is-active" : ""
             }`}
             type="button"
           >
-            <span class="hamburger-box">
-              <span class="hamburger-inner"></span>
+            <span className="hamburger-box">
+              <span className="hamburger-inner"></span>
             </span>
           </button>
         </div>

@@ -5,6 +5,7 @@ import CredExperience from "../components/CredExperience";
 import CredSecurity from "../components/CredSecurity";
 import FeelSpecial from "../components/FeelSpecial";
 import HeroSection from "../components/HeroSection";
+import MobileScroll from "../components/MobileScroll";
 import ProductShowCase from "../components/ProductShowcase";
 import WindowPeek from "../components/WindowPeek";
 
@@ -17,6 +18,7 @@ const Homepage = () => {
       <FeelSpecial />
       <BrandsLove />
       <CredExperience />
+      <MobileScroll />
       <div className="non-mobile">
         <WindowPeek />
       </div>
