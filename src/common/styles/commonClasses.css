@@ -50,6 +50,11 @@
   margin-bottom: 40px;
 }
 
+.footer {
+  font-size: 40px;
+  font-weight: 600;
+  padding: 0px 0px 20px;
+}
 .hamburger-fixed {
   position: fixed;
   top: 40px;
@@ -67,6 +72,10 @@
 
   .photo-section-child {
     padding: 100px 0px;
+  }
+
+  .footer {
+    font-size: 32px;
   }
 }
 @media all and (max-width: 767px) {
@@ -98,6 +107,10 @@
 
   .photo-section-child {
     padding: 195px 0px 90px;
+  }
+
+  .footer {
+    font-size: 20px;
   }
 }
 

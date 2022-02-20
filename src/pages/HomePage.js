@@ -1,5 +1,7 @@
 import React from "react";
+import AppRating from "../components/AppRating";
 import BrandsLove from "../components/BrandsLove";
+import Footer from "../components/common/Footer";
 import Header from "../components/common/Header";
 import CredExperience from "../components/CredExperience";
 import CredSecurity from "../components/CredSecurity";
@@ -26,6 +28,8 @@ const Homepage = () => {
 
       <CredSecurity />
       <CredStory />
+      <AppRating />
+      <Footer />
     </>
   );
 };
