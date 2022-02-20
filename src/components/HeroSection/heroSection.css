@@ -1,9 +1,11 @@
 .hero-section-wrapper {
   position: relative;
+  min-width: 100vw;
 }
 
 .hero-section {
   min-height: 100vh;
+
   text-align: center;
 }
 
