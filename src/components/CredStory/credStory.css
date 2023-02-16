@@ -1,6 +1,6 @@
 .cred-story {
   min-height: 100vh;
-  min-width: 100vw;
+  min-width: 100%;
   background-color: var(--bg-green);
   background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/trust-bg.jpg);
   background-size: cover;

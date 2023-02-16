@@ -2,7 +2,7 @@
   background-color: var(--white);
   color: var(--bg-black);
   padding: 60px 0px;
-  min-width: 100vw;
+  min-width: 100%;
 }
 
 .brands-love-heading {
